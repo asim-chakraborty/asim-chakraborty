@@ -59,7 +59,7 @@ Analysed customer purchasing behaviour to identify retention patterns, cohort pe
 
 **Focus:** Customer Analytics | Cohort Analysis | Retention | SQL | Python | Power BI
 
-[View Project](https://github.com/asim-chakraborty)
+[View Project](https://github.com/asim-chakraborty/E-Commerce-Customer-Lifecycle-Cohort-Analytics)
 
 ### Sales & Profitability Analytics
 

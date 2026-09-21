@@ -51,7 +51,7 @@ Analysed 6.3M+ financial transactions to identify fraud patterns, transaction ri
 
 **Focus:** Fraud Analytics | Risk Analysis | SQL | Python | Power BI
 
-[View Project]([https://github.com/asim-chakraborty](https://github.com/asim-chakraborty/Fraud-Detection-and-Risk-Analysis))
+[View Project](https://github.com/asim-chakraborty/Fraud-Detection-and-Risk-Analysis))
 
 ### E-Commerce Customer Lifecycle & Cohort Analytics
 

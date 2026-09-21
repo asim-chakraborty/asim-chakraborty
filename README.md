@@ -67,7 +67,7 @@ Analysed sales performance, discounting and profitability to identify margin lea
 
 **Focus:** Sales Analytics | Profitability | Margin Analysis | Power BI | SQL
 
-[View Project](https://github.com/asim-chakraborty)
+[View Project](https://github.com/asim-chakraborty/enterprise-sales-analysis)
 
 ## How I Approach Business Problems
 

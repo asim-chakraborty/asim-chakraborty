@@ -104,9 +104,8 @@ I can support businesses with:
 
 ## Portfolio
 
-Portfolio: 
-LinkedIn: 
-Email: 
+
+Email: chakrabortyAsim496@gmail.com
 
 ## Currently Building
 

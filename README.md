@@ -61,7 +61,7 @@ Analysed customer purchasing behaviour to identify retention patterns, cohort pe
 
 [View Project](https://github.com/asim-chakraborty/E-Commerce-Customer-Lifecycle-Cohort-Analytics)
 
-### Sales & Profitability Analytics
+### Enterprise Sales & Profitability Analytics
 
 Analysed sales performance, discounting and profitability to identify margin leakage and management opportunities.
 

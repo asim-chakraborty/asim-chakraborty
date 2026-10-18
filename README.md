@@ -103,9 +103,8 @@ I can support businesses with:
 * Automated reporting
 
 ## Portfolio
-
-Linkdin: https://www.linkedin.com/in/asim-chakraborty-1565ba430
-Email: chakrabortyasim496@gmail.com
+Linkdin:https://www.linkedin.com/in/asim-chakraborty-1565ba430
+Email:chakrabortyasim496@gmail.com
 
 ## Currently Building
 

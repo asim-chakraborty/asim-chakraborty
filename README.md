@@ -104,8 +104,7 @@ I can support businesses with:
 
 ## Portfolio
 Linkdin:https://www.linkedin.com/in/asim-chakraborty-1565ba430
-Email:chakrabortyasim496@gmail.com
-
+Email:asimchakraborty.analytics@gmail.com 
 ## Currently Building
 
 Business-focused analytics projects designed around realistic operational problems rather than purely technical demonstrations.
